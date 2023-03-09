@@ -1,0 +1,13 @@
+name = "ReturnScope"
+uuid = "3caac13a-2753-4d5a-becf-3271e52727bc"
+authors = ["Morten Piibeleht <morten.piibeleht@juliahub.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
